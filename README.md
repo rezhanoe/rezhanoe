@@ -31,12 +31,10 @@ I always make sure that I find enough time for open source contribution that als
 - 🥇 And tons of other repositories that are linked to each of my blogposts.
 
 ---
-#### 📙 My Popular Blog Posts
-- [Onion Architecture In ASP.NET Core With CQRS – Detailed](https://rezhanoe.com)
+#### 📙 My Popular Blog Posts 
 - [Modular Architecture in ASP.NET Core – Building Better Monoliths](https://rezhanoe.com)
 - [Custom User Management in ASP.NET Core MVC with Identity](https://rezhanoe.com)
-- [Blazor CRUD using Entity Framework Core](https://rezhanoe.com)
-- [Blazor Hero – Clean Architecture Template Quick Start Guide](https://rezhanoe.com)
+- [Blazor CRUD using Entity Framework Core](https://rezhanoe.com) 
 ---
 #### Trivia
 - 📝 I blog here: https://rezhanoe.com
